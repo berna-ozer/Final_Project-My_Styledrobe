@@ -2,7 +2,9 @@
 
 # Project: My Styledrobe - AI Outfit Recommender
 
-![My Styledrobe](streamlit/logo.jpeg)
+<div style="text-align:center;">
+    <img src="streamlit/logo.jpeg" alt="My Styledrobe" width="300"/>
+</div>
 
  **My Styledrobe** simplifies outfit selection by providing users with matching wardrobe items. It starts with scraping clothing data, then cleaning it meticulously for accuracy. A trained machine learning model predicts item compatibility.
 
