@@ -1,0 +1,6 @@
+combi_image_link,combi_type,combi_color,image_link,type,color,type_indices,color_indices,combi_type_indices,combi_color_indices,predicted_match
+A-Zara-images/A2947,Coats,Black,,,,,,,,
+A-Mango-images/A3465,Jeans,Black,A-Zara-images/A2947,Coats,Black,0.0,0.0,4.0,0.0,0.99807054
+B-Mango-images/B1650,Blouses and shirts,White,A-Zara-images/A2947,Coats,Black,0.0,0.0,1.0,2.0,0.997332
+B-Mango-images/B1325,Jewellery,Gold,A-Zara-images/A2947,Coats,Black,0.0,0.0,5.0,8.0,0.9943752
+B-Mango-images/B3634,Shoes,Black,A-Zara-images/A2947,Coats,Black,0.0,0.0,7.0,0.0,0.9897431

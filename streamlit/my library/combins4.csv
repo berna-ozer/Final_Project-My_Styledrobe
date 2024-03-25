@@ -1,0 +1,5 @@
+combi_image_link,combi_type,combi_color,image_link,type,color,type_indices,color_indices,combi_type_indices,combi_color_indices,predicted_match
+B-Mango-images/B3638,Bags,Black,,,,,,,,
+A-Mango-images/A3465,Jeans,Black,B-Mango-images/B3638,Bags,Black,0.0,0.0,6.0,5.0,0.97351056
+B-Mango-images/B1390,Blouses and shirts,Pink,B-Mango-images/B3638,Bags,Black,0.0,0.0,1.0,4.0,0.9758478
+B-Zara-images/B1423,Coats,Grey,B-Mango-images/B3638,Bags,Black,0.0,0.0,2.0,2.0,0.9851946
